@@ -1,0 +1,6 @@
+framework module Pods_MIQAnalyticsTests {
+  umbrella header "Pods-MIQAnalyticsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

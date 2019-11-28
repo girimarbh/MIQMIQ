@@ -1,0 +1,6 @@
+framework module Pods_MIQAnalytics {
+  umbrella header "Pods-MIQAnalytics-umbrella.h"
+
+  export *
+  module * { export * }
+}

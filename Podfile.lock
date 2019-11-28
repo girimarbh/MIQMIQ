@@ -1,0 +1,34 @@
+PODS:
+  - ADALiOS (1.2.10)
+  - GoogleMaps (3.6.0):
+    - GoogleMaps/Maps (= 3.6.0)
+  - GoogleMaps/Base (3.6.0)
+  - GoogleMaps/Maps (3.6.0):
+    - GoogleMaps/Base
+  - MicrosoftAzureMobile (3.4.0)
+  - MSAL (1.0.3):
+    - MSAL/app-lib (= 1.0.3)
+  - MSAL/app-lib (1.0.3)
+
+DEPENDENCIES:
+  - ADALiOS
+  - GoogleMaps
+  - MicrosoftAzureMobile (~> 3.4.0)
+  - MSAL
+
+SPEC REPOS:
+  trunk:
+    - ADALiOS
+    - GoogleMaps
+    - MicrosoftAzureMobile
+    - MSAL
+
+SPEC CHECKSUMS:
+  ADALiOS: 505c364827c25dd37811e660a943dace9c0ff094
+  GoogleMaps: 82f8fe307193bb4de6ef6bf9e88f1d624b718f9d
+  MicrosoftAzureMobile: 82719f7f9e1e3389d5c2fe5f6be034c344004e12
+  MSAL: 351711995bd31170a2e887941115a3ed17b178e8
+
+PODFILE CHECKSUM: 5b35a9129b8f988b88b8b0e8e9edaf552d20bfc7
+
+COCOAPODS: 1.8.4
